@@ -88,7 +88,7 @@ header .menu--icon div{
 }
 
 main{
-    background-image: url(../Assets/images/eletric_bike.jpg);
+    background-image: url(Assets/images/eletric_bike.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
