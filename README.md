@@ -11,3 +11,5 @@ No decorrer do exercício, foram utilizados:
 * Efeitos de transição;
 * Responsividade.
 
+### Você pode acessar a pagina [AQUI](https://anadasilva87.github.io/Bikesla/)
+
